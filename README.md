@@ -342,6 +342,9 @@ ARIA successfully demonstrates the power of agentic AI in solving complex career
 3. **Bias Detection**: Tools for identifying and mitigating bias in resume analysis
 4. **Accessibility**: Enhanced support for users with disabilities and diverse backgrounds
 
+### Contributors
+Contributors: Ahmed Raza, Arsalna Shaikh, Amna Faisal, Raahim
+
 ---
 
 **ARIA** - Empowering career development through intelligent resume analysis and interview preparation. 🚀
