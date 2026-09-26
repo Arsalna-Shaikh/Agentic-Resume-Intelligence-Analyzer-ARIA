@@ -1,0 +1,46 @@
+# --- Core utilities ---
+python-dotenv
+pandas
+numpy
+tiktoken
+nltk
+
+# --- Visualization ---
+matplotlib
+plotly
+
+# --- Text Extraction & Preprocessing ---
+pdfminer.six
+pypdf
+scikit-learn
+
+# --- Embeddings & NLP Models ---
+sentence-transformers
+faiss-cpu
+rank_bm25
+jq
+
+# --- LLM & RAG Frameworks ---
+langchain
+langchain-community
+langchain-core
+langchain-groq
+langchain_huggingface
+langchain-classic
+langgraph
+
+# --- Web UI ---
+streamlit
+
+# --- PDF Generation ---
+fpdf2
+reportlab
+
+
+librosa
+SpeechRecognition
+textblob
+soundfile
+# st-audiorec  (the most popular open-source browser mic recorder for Streamlit is actually called streamlit-audiorec, not st-audiorec.)
+streamlit-audiorec
+prefect
